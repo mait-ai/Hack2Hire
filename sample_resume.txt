@@ -1,0 +1,7 @@
+Backend engineer with three years of experience building Python services.
+Designed and maintained Flask REST APIs serving thousands of daily requests.
+Strong with PostgreSQL, query optimization, and relational database design.
+Comfortable with core data structures and algorithms and their complexity.
+Applied object oriented programming and common design patterns across projects.
+Contributed to the system design of a high-traffic web application, including
+caching and load balancing.

@@ -1,0 +1,5 @@
+We are hiring a Backend Python Developer.
+The role requires strong SQL and relational database skills, clean REST API
+design, solid object oriented programming, and practical system design ability.
+Familiarity with data structures and algorithms is expected.
+You will collaborate closely with a small engineering team.
